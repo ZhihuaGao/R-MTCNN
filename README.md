@@ -5,9 +5,6 @@ Codes and paper will release soon.
 
 ## Results
 
-![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://player.youku.com/embed/XMzU5MDI1MjQ2MA==)
-
-
 
 ![img](https://github.com/AresGao/R-MTCNN-Joint-Face-detection-and-Alignment-using-Region-based-multi-task-convolution-networks/blob/master/2_Demonstration_Demonstration_Or_Protest_2_58.jpg?raw=true)
 
